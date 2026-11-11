@@ -19,4 +19,3 @@ npx serve .
 ## Business details to confirm
 
 The product names, prices, fabrics, fit, shipping, payment, and return details are examples. The checkout prepares an inquiry only; it does not process payments or place an order. Add the brand's real WhatsApp number and email to `app.js` before enabling direct contact. Do not publish invented reviews.
-
